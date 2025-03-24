@@ -1,0 +1,8 @@
+﻿Alex Carter    85, 92, 78
+Brianna Lee    74, 88, 90
+Caleb Johnson  67, 73, 81
+Danielle Smith 95, 89, 94
+Ethan Martinez 56, 72, 68
+Fiona Nguyen   88, 91, 85
+Gavin Brown    43, 59, 77
+Hannah Wilson  99, 97, 100
